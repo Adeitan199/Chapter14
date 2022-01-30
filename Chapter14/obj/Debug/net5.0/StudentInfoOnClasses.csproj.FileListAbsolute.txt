@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.exe
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.deps.json
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.runtimeconfig.json
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.dll
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\ref\StudentInfoOnClasses.dll
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\bin\Debug\net5.0\StudentInfoOnClasses.pdb
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.AssemblyInfo.cs
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.dll
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\ref\StudentInfoOnClasses.dll
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.pdb
+C:\Users\Owner\source\repos\StudentInfoOnClasses\StudentInfoOnClasses\obj\Debug\net5.0\StudentInfoOnClasses.genruntimeconfig.cache
